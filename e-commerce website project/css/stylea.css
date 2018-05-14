@@ -1,0 +1,26 @@
+
+.l1{
+	font-size: 50px;
+    font-family: 'Passion One', cursive;
+    font-weight: 400;
+    margin-top: 50px;
+    padding-left: 350px;
+}
+.l2{
+margin-top: 30px;
+background-color: white;
+height: 530px;
+}
+
+.input-group-addon{
+	width: 35px;
+	height: 10px
+}
+
+.form-control{
+  width: 230px;
+  height: 30px;
+}
+.p1{
+	padding-left:65px 
+}

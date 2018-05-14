@@ -1,0 +1,206 @@
+<alieanweare 17>
+
+ENGINEERED TO WREAK HAVOC.
+Alienware’s most powerful 43.1 cm (17) gaming laptop is designed for VR with NVIDIA GeForce® GTX 10-Series graphics and Tobii eye tracking, taking you deeper into the game.
+ONLINE PRICE RS.2,60,990.00
+..
+Specs
+
+CPU	Intel Core i7-4710HQ
+Operating System	Windows 8.1
+RAM	16GB
+Hard Drive Size	512GB
+Hard Drive Type	SSD
+Secondary Hard Drive Size	1TB
+Secondary Hard Drive Speed	7,200
+Secondary Hard Drive Type	HDD
+Display Size	17.3
+Native Resolution	2304 x 1440
+Optical Drive	None
+Optical Drive Speed	n/a
+Graphics Card	Nvidia's GeForce GTX 980M GPU
+Video Memory	8GB
+Wi-Fi	802.11ac
+Wi-Fi Model	Killer 1535 802.11ac 2x2 WiFi and Bluetooth 4.1
+Bluetooth	Bluetooth 4.1
+Touchpad Size	4.1 x 2.25-inch
+Ports (excluding USB)	Headphone
+Ports (excluding USB)	Microphone
+Ports (excluding USB)	USB 3.0
+Ports (excluding USB)	Mini Display Port
+Ports (excluding USB)	Thunderbolt 3
+Ports (excluding USB)	SD card slot
+Ports (excluding USB)	Proprietary
+Ports (excluding USB)	Ethernet
+Ports (excluding USB)	HDMI 2.0
+USB Ports	4
+Card Slots	SD memory reader
+Warranty/Support	one-year premium support
+Size	17.9 x 12.9 x 2.26-2.23 inches
+Weight	8 pounds
+Company Website	www.alienware.com
+..................................................................................................................................................................
+
+<predater 17 X>
+..
+ 
+SPECIFICATIONS
+
+CPU	2.7-GHz Intel Core i7-6820HK Quad-Core CPU
+Operating System	Windows 10
+RAM	32GB
+RAM Upgradable to	
+Hard Drive Size	512GB SSD
+Hard Drive Speed	n/a
+Hard Drive Type	Dual SSDs
+Secondary Hard Drive Size	16GB
+Secondary Hard Drive Speed	7200
+Secondary Hard Drive Type	HDD
+Display Size	17.3
+Native Resolution	1920x1080
+Optical Drive	None
+Optical Drive Speed	
+Graphics Card	NVIDIA GeForce GTX 980 with 8GB of dedicated GDDR5 VRAM
+Video Memory	8GB
+Wi-Fi	802.11ac
+Wi-Fi Model	Killer Wireless-AC 1535 802.11a/c WiFi featuring 2x2 MU-MIMO technology (Dual-Band 2.4GHz and 5GHz)
+Bluetooth	Bluetooth 4.1
+Mobile Broadband	
+Touchpad Size	4.0 x 2.4-inches
+Ports (excluding USB)	USB 3.1
+Ports (excluding USB)	Microphone
+Ports (excluding USB)	Headphone
+Ports (excluding USB)	Ethernet
+Ports (excluding USB)	USB Type-C
+USB Ports	5
+Card Slots	SD memory reader
+Warranty/Support	two-year limited hardware warranty
+Size	16.65 x 12.66 x 1.77 inches
+Weight	10.03 pounds
+Company Website	www.acer.com
+
+............................................................................................................................................................
+<rog>
+     Asus ROG Strix GL753
+
+ 
+SPECIFICATIONS
+CPU	2.8-GHz Intel Core i7-7700HQ CPU
+Operating System	Windows 10
+RAM	16GB
+RAM Upgradable to	32GB
+Hard Drive Size	1 TB
+Hard Drive Speed	5,400rpm
+Hard Drive Type	Serial ATA
+Secondary Hard Drive Size	256GB
+Secondary Hard Drive Speed	
+Secondary Hard Drive Type	M.2 SSD
+Display Size	17.3
+Highest Available Resolution	1920 x 1080
+Native Resolution	1920x1080
+Optical Drive	BD-ROM/DVD
+Optical Drive Speed	8X
+Graphics Card	Nvidia GeForce GTX 1050 Ti (4GB)
+Video Memory	4GB
+Wi-Fi	802.11ac
+Wi-Fi Model	Intel 2x2 802.11ac
+Bluetooth	Bluetooth 4.0
+Mobile Broadband	
+Touchpad Size	4.1 x 2.8-inches
+Ports (excluding USB)	HDMI
+Ports (excluding USB)	Lock Slot
+Ports (excluding USB)	Mini DisplayPort
+Ports (excluding USB)	USB 3.1 with Type-C
+Ports (excluding USB)	USB 2.0
+Ports (excluding USB)	USB 3.0
+Ports (excluding USB)	Combo Headphone/Mic Jack
+Ports (excluding USB)	Ethernet
+USB Ports	6
+Card Slots	SD memory reader
+Warranty/Support	1 year
+Size	16.3 x 10.7 x 1.3 inches
+Weight	6.4 pounds
+Company Website	asus.com
+...............................................................................................................................................................................................................
+
+<mac book pro>
+ 
+SPECIFICATIONS
+
+..........................................................................................................................................................
+razer
+.................................................................................................................................................................
+dell
+.............................................................................................................................................................
+hp
+  HP EliteBook x360 G2
+ 
+SPECIFICATIONS
+CPU	2.8-GHz Intel Core i7-7600U CPU
+Operating System	Windows 10 Pro
+RAM	16GB
+RAM Upgradable to	
+Hard Drive Size	512GB SSD
+Hard Drive Speed	
+Hard Drive Type	SSD
+Secondary Hard Drive Size	
+Secondary Hard Drive Speed	
+Secondary Hard Drive Type	
+Display Size	13.3
+Highest Available Resolution	3840 x 2160
+Native Resolution	1920x1080
+Optical Drive	
+Optical Drive Speed	
+Graphics Card	Intel HD Graphics 620
+Video Memory	
+Wi-Fi	
+Wi-Fi Model	Intel Dual Band Wireless-AC 8265 802.11 a/b/g/n/ac (2x2) Wi-Fi and Bluetooth 4.2 Combo (vPro)
+Bluetooth	Bluetooth 4.2
+Mobile Broadband	
+Touchpad Size	4.3 x 2.6 inches
+Ports (excluding USB)	Headphone/Mic
+Ports (excluding USB)	Kensington Lock
+Ports (excluding USB)	microSD
+Ports (excluding USB)	Smart Card Reader
+Ports (excluding USB)	Thunderbolt 3
+Ports (excluding USB)	USB 3.0
+Ports (excluding USB)	HDMI-out
+USB Ports	3
+Warranty/Support	Three-year limited warranty
+Size	12.48 x 8.6 x 0.59 in
+Weight	2.8 pounds
+Company Website	hp.com
+
+
+
+..............................................................................................................................
+lenovo
+    Lenovo ThinkPad T470
+
+
+
+CPU	Intel Core i5-7200U
+RAM	8GB
+RAM Upgradable to	32GB
+Hard Drive Size	256GB
+Hard Drive Type	PCIe SSD
+Display Size	14.1
+Highest Available Resolution	1920 x 1080
+Native Resolution	1920x1080
+Graphics Card	Intel HD Graphics 620
+Video Memory	Shared
+Wi-Fi	802.11 a/b/g/n/ac
+Wi-Fi Model	Intel 8265 2x2 11ac
+Bluetooth	Bluetooth 4.1
+Touchpad Size	3.9 x 2.7 inches
+Ports (excluding USB)	Thunderbolt 3
+Ports (excluding USB)	Combo Headphone/Mic Jack
+Ports (excluding USB)	Ethernet
+Ports (excluding USB)	HDMI
+USB Ports	3
+Warranty/Support	one year depot warranty
+Size	13.25 x 9.15 x 0.79 inches
+Weight	3.48 pounds / 3.88 pounds (6-cell battery)
+Company Website	www.lenovo.com
+
+
